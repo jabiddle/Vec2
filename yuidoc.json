@@ -1,0 +1,9 @@
+{
+    "name": "Vec2",
+    "description": "Vec2: A fast, simple, 2D vector class in Javascript",
+    "version": "1.0.0",
+    "url": "https://github.com/jabiddle/vec2",
+    "options": {
+        "outdir": "./docs"
+    }
+}
